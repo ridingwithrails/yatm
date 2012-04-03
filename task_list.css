@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #666666;
+}
+
+#content {
+    width: 760px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+}
+
+#tasks {
+    margin-top: 0;
+    float: right;
+}
